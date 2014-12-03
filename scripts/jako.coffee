@@ -1,8 +1,8 @@
 # Description:
-#   Hubotと挨拶.
+#   Translation bot of Japanese-Korean
 #
 # Commands:
-#   hubot hello - Reply with hello
+#   Enter text that you want translate
 
 # Hubotのスクリプトはモジュールとして記述し，
 # Hubot起動時にrequireされてexportした関数が呼び出されます
