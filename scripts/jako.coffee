@@ -4,9 +4,6 @@
 # Commands:
 #   Enter text that you want translate
 
-# Hubotのスクリプトはモジュールとして記述し，
-# Hubot起動時にrequireされてexportした関数が呼び出されます
-
 japanese = ///
 [あ-んア-ン]
 ///
